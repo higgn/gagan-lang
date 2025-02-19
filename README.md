@@ -1,5 +1,5 @@
 
-# Gagan-lang0..
+# Gagan-lang
 
 **The World's Simplest Programming Language**
 
