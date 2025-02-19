@@ -1,0 +1,3 @@
+gprint "Enter your name:"
+gscan name
+gprint "Hello, " + name
